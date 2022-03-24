@@ -1,0 +1,52 @@
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+
+.App {
+  height: 100vh;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  padding-top: 50px;
+  text-align: center;
+
+}
+
+.container h1 {
+  font-size: 25px;
+  font-style: italic;
+  color: slategray;
+  padding-bottom: 20px;
+}
+
+.mainInput {
+  width: 650px;
+  height: 25px;
+  border-radius: 5px;
+  margin-right: 15px;
+  border: 1px solid tan;
+  outline: none;
+  font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
